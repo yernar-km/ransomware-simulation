@@ -23,7 +23,14 @@ Educational ransomware simulation demonstrating multi-phase attack and SIEM dete
 - ✅ Incident Response Plan
 
 ## Screenshots
-[Dashboard] [Timeline] [Encrypted Files] [Ransom Note]
+<img width="923" height="651" alt="изображение" src="https://github.com/user-attachments/assets/2b340600-b0b6-4cd4-8462-9d05fcd0be5c" />
+
+<img width="937" height="111" alt="изображение" src="https://github.com/user-attachments/assets/ef14c926-9c68-4763-a519-fd7917f9fb37" />
+
+<img width="942" height="990" alt="изображение" src="https://github.com/user-attachments/assets/9b712635-b276-4035-b664-a092dec2a5d0" />
+
+
+
 
 ## Skills Demonstrated
 - SIEM Configuration & Tuning
